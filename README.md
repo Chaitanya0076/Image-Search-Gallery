@@ -1,8 +1,8 @@
-# Image-Search-Gallery
-- The website is a small-scale search engine to search your favorite images.
-- The website is built using React.
-- I have used Unsplash API to fetch the images and image details.
-- The website is functional, you can search the images as you need and download the image by visiting the actual image address as you click the download icon.
-- The website is built totally responsive to mobile usage too.
-- Used material UI to get some icons.
-- And you can toggle the theme of the website.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
